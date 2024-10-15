@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My Magical Music Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #6200ea;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #3700b3;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        section {
+            padding: 2rem;
+        }
+
+        footer {
+            background-color: #6200ea;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Magical Music Website</h1>
+        <p>The magic of music and more</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#music">Music</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section>
+        <h2>About</h2>
+        <p>This website is dedicated to exploring the magical effects of music. Stay tuned for musical adventures, enchanting melodies, and much more!</p>
+        
+        <h2>Featured Music</h2>
+        <p>Check out our latest musical pieces that have magical properties, whether for relaxation, inspiration, or pure joy!</p>
+        
+        <h2>Contact</h2>
+        <p>Get in touch to learn more about how you can be part of this musical magic.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 My Magical Music Website | All rights reserved</p>
+    </footer>
+
+</body>
+
+</html>
